@@ -1,10 +1,10 @@
-# Desenvolvedor Web JavaScript
+# Desenvolvedor FullStack
 
-Bem-vindo ao meu repositório no GitHub! Sou um desenvolvedor web JavaScript, atualmente estagiando na Tijuca Alimentos. Aqui você encontrará projetos, códigos e experimentos que refletem minha jornada no mundo do desenvolvimento web.
+Bem-vindo ao meu repositório no GitHub! Sou um desenvolvedor fullstack, atualmente na Conexão Direta. Aqui você encontrará projetos, códigos e experimentos que refletem minha jornada no mundo do desenvolvimento web.
 
 ## Sobre Mim
 
-Meu nome é Leonardo, e estou empenhado em criar experiências web inovadoras e funcionais. Atualmente, estou contribuindo para o sucesso da Tijuca Alimentos como desenvolvedor web, onde tenho a oportunidade de aplicar e aprimorar minhas habilidades no dia a dia.
+Meu nome é Leonardo, e estou empenhado em criar experiências web inovadoras e funcionais. Atualmente, estou contribuindo para o sucesso da Conexão Direta como desenvolvedor fullstack, onde tenho a oportunidade de aplicar e aprimorar minhas habilidades no dia a dia.
 
 ## Tecnologias que domino 
 
