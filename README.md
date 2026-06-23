@@ -1,4 +1,4 @@
-# Olá, sou Leonardo 👋
+# Hi, I'm Leonardo 👋
 
 <div align="center">
 
@@ -14,42 +14,42 @@
 
 ---
 
-## 🚀 Sobre Mim
+## 🚀 About Me
 
-Sou um desenvolvedor Full Stack e Automation Engineer em formação, cursando Ciência da Computação na Universidade de Fortaleza (UNIFOR). Tenho experiência prática em desenvolvimento web front-end, automação de processos com IA e integração de APIs. Sou organizado, proativo e orientado a resultados, com forte capacidade de trabalho em equipe.
+I'm a Full Stack Developer and Automation Engineer currently studying Computer Science at the University of Fortaleza (UNIFOR). I have practical experience in front-end web development, AI-powered process automation, and API integration. I'm organized, proactive, and results-oriented, with strong teamwork and collaboration skills.
 
-Atualmente, trabalho na **Startup Conexão Direta** desenvolvendo soluções de automação avançadas, e tenho paixão por criar ferramentas que otimizam processos e entregam valor real aos negócios.
+Currently, I work at **Startup Conexão Direta** developing advanced automation solutions, and I'm passionate about creating tools that optimize processes and deliver real value to businesses.
 
 ---
 
-## 💼 Experiência Profissional
+## 💼 Professional Experience
 
 ### Full Stack Developer / Automation Engineer
-**Startup Conexão Direta** | 2025 – Presente
+**Startup Conexão Direta** | 2025 – Present
 
-- Desenvolvimento e manutenção de workflows de automação com agentes de IA para WhatsApp Business
-- Construção de automações robustas utilizando **n8n**, integrando APIs, webhooks e serviços externos
-- Aplicação de práticas full stack no desenvolvimento de ferramentas internas
-- Trabalho com bancos de dados (PostgreSQL/Supabase) para armazenamento e confiabilidade de dados
-- Colaboração com stakeholders para designs escaláveis e soluções sustentáveis
+- Development and maintenance of AI-powered automation workflows for WhatsApp Business
+- Building robust automations using **n8n**, integrating APIs, webhooks, and external services
+- Applying full stack development practices to create and support internal tools
+- Working with databases (PostgreSQL/Supabase) for data storage and workflow reliability
+- Collaborating with stakeholders to design scalable and maintainable solutions
 
 ### Front-End Web Development Intern
 **Grupo Tijuca Alimentos** | 2023 – 2025
 
-- Atuação em equipe de desenvolvimento front-end
-- Contribuição no desenvolvimento do **NISA** – um sistema de consulta médica para apoiar a comunidade Ancure
-- Implementação de melhorias e novas funcionalidades em sistemas internos
-- Suporte ocasional ao time de IT support
+- Worked as part of a front-end development team
+- Contributed to the development of **NISA** – a medical consultation system to support the Ancure community
+- Implemented improvements and added new features to internal company systems
+- Provided occasional support to the IT support team
 
 ### Undergraduate Research Assistant – Data Analysis
-**Universidade de Fortaleza (UNIFOR)** | 2022
+**University of Fortaleza (UNIFOR)** | 2022
 
-- Participação em projeto de pesquisa (6 meses) focado em Reconhecimento Óptico de Caracteres (OCR)
-- Uso de ferramentas: **Tesseract OCR**, Google Colab, **Python**
+- Participated in a 6-month undergraduate research project focused on Optical Character Recognition (OCR)
+- Tools used: **Tesseract OCR**, Google Colab, **Python**
 
 ---
 
-## 🛠️ Habilidades Técnicas
+## 🛠️ Technical Skills
 
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -62,67 +62,67 @@ Atualmente, trabalho na **Startup Conexão Direta** desenvolvendo soluções de 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF6B35?style=flat&logo=n8n&logoColor=white)
 
-### Ferramentas & Plataformas
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
 ---
 
-## 📚 Formação Acadêmica
+## 📚 Education
 
 ### Bachelor of Science in Computer Science
-**Universidade de Fortaleza (UNIFOR)** | 2023 – 2027 (expected)
+**University of Fortaleza (UNIFOR)** | 2023 – 2027 (expected)
 
-**Cursos relevantes:**
-- Modelagem e Avaliação de Desempenho
-- Bancos de Dados NoSQL
-- Estruturas de Dados
-- Algoritmos
+**Relevant Coursework:**
+- Performance Modeling and Evaluation
+- NoSQL Databases
+- Data Structures
+- Algorithms
 
-### Bachelor of Engineering in Computer Engineering (Incompleto)
-**Universidade de Fortaleza (UNIFOR)** | 2021 – 2023
+### Bachelor of Engineering in Computer Engineering (Incomplete)
+**University of Fortaleza (UNIFOR)** | 2021 – 2023
 
 ---
 
-## 🌍 Idiomas
+## 🌍 Languages
 
-| Idioma | Nível |
-|--------|-------|
-| Português | Nativo |
+| Language | Level |
+|----------|-------|
+| Portuguese | Native |
 | English | B1 |
 
 ---
 
-## 📂 Meus Projetos
+## 📂 My Projects
 
-Confira meus repositórios neste GitHub para ver exemplos de:
-- Projetos front-end com **React** e **Tailwind CSS**
-- Automações com **n8n** e integração de APIs
-- Scripts e ferramentas em **Python**
-- Soluções de integração com **WhatsApp Business API**
+Check out my repositories on GitHub to see examples of:
+- Front-end projects with **React** and **Tailwind CSS**
+- Automations with **n8n** and API integration
+- Scripts and tools in **Python**
+- **WhatsApp Business API** integration solutions
 
-> 💡 Muitos dos meus projetos são privados ou em desenvolvimento. Sinta-se à vontade em entrar em contato para mais informações!
-
----
-
-## 🎯 Interesses & Desenvolvimento
-
-- 🤖 Automação inteligente com IA e agentes
-- 🔧 Integração de APIs e arquitetura de microsserviços
-- 📊 Análise de dados
-- 🌐 Desenvolvimento full stack
-- 🚀 Escalabilidade e performance
+> 💡 Many of my projects are private or in development. Feel free to reach out for more information!
 
 ---
 
-## 📞 Vamos Conectar!
+## 🎯 Interests & Development
 
-Estou sempre aberto a:
-- Colaborações em projetos interessantes
-- Discussões sobre desenvolvimento e automação
-- Oportunidades de estágio e trabalho
-- Compartilhamento de conhecimento
+- 🤖 Intelligent automation with AI and agents
+- 🔧 API integration and microservices architecture
+- 📊 Data analysis 
+- 🌐 Full stack development
+- 🚀 Scalability and performance
+
+---
+
+## 📞 Let's Connect!
+
+I'm always open to:
+- Collaborations on interesting projects
+- Discussions about development and automation
+- Internship and job opportunities
+- Knowledge sharing
 
 <div align="center">
 
@@ -136,8 +136,8 @@ Estou sempre aberto a:
 
 <div align="center">
 
-**⭐ Se gostou, considere dar uma estrela nos meus repositórios! ⭐**
+**⭐ If you liked it, please consider giving my repositories a star! ⭐**
 
-*Atualizado em Junho de 2026*
+*Last updated: June 2026*
 
 </div>
