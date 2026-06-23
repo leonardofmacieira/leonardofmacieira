@@ -1,4 +1,4 @@
-# Olá, sou Leonardo Farias Macieira 👋
+# Olá, sou Leonardo 👋
 
 <div align="center">
 
